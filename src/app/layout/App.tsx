@@ -1,6 +1,6 @@
 
 import { useEffect, useState } from 'react'
-import { Product } from './app/model/product';
+import { Product } from '../model/product';
 
 
 function App() {
